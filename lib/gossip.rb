@@ -1,4 +1,3 @@
-require 'pry'
 class Gossip
 	attr_accessor :author, :content
 
@@ -22,6 +21,5 @@ class Gossip
 	end
 end
 
-binding.pry
 
 
